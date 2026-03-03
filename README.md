@@ -73,6 +73,9 @@ Converts translated Hindi text into speech.
 
 Outputs Hindi audio in real time.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f040cb1-af1f-4da4-a2a6-dd88f3f86b7e" />
+
+
 ✨ Key Features
 
 ✅ Fully Offline Processing
