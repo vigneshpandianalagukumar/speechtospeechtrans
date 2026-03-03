@@ -1,0 +1,6 @@
+numpy
+sounddevice
+torch
+vosk
+llama-cpp-python
+aksharamukha
